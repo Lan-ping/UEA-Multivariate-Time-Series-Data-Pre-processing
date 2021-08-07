@@ -1,0 +1,3 @@
+numpy
+cython
+uea_ucr_datasets
